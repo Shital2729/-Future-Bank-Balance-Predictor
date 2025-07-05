@@ -1,5 +1,6 @@
 Future Bank Balance Predictor 📈
 This project is a web application that predicts a customer's future bank balance using a machine learning model. Users can input various financial and personal details into a user-friendly interface and receive an instant prediction. The application is built with Python and deployed using Streamlit.
+
 Here's URL(http://192.168.1.16:8501/)
 Features
 Machine Learning Model: Utilizes a Linear Regression model trained on a financial dataset to forecast future balances.
